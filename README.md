@@ -1,6 +1,7 @@
 # storish
 
 A new Flutter project.
+It works as a recommendation API for e-commerce apps.
 
 ## Getting Started
 
